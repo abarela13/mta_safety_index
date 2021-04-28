@@ -28,7 +28,10 @@
 
 ### arrest
 
-- Generating unique ids for turnstiles and turnstiles entries.
+- Cleaning the complaint data of 2020
+- Preparing data for vizualizations in tableau
+- Standarize and group similar crimes
+- Filter out irrelevant crime that travelers would be concerned with
 
 ### stations_coordinates
 
